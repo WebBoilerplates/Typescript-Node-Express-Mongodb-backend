@@ -40,7 +40,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.11.18",
     "morgan": "^1.10.0",
-    "node-cron": "^2.0.3",
+    "node-cron": "^3.0.0",
     "nodemon": "^2.0.6",
     "pm2": "^4.5.5",
     "require-strip-json-comments": "^2.0.0",
