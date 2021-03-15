@@ -29,7 +29,7 @@
     "cross-env": "^7.0.2",
     "deasync": "^0.1.20",
     "dotenv": "^8.2.0",
-    "eslint": "^7.21.0",
+    "eslint": "^7.22.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
     "express-ipfilter": "^1.1.2",
